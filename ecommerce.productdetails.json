@@ -1,0 +1,486 @@
+[{
+  "_id": 1,
+  "title": "Wide Bowknot Hat",
+  "brand": "MAJIK",
+  "price": 288,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-cap.png",
+  "rating": "3.6",
+  "category": "cloth"
+},
+{
+  "_id": 2,
+  "title": "Plain Round Neck T-shirt",
+  "brand": "Huetrap",
+  "price": 395,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-fit-t-shirt.png",
+  "rating": "4.1",
+  "category": "cloth"
+},
+{
+  "_id": 3,
+  "title": "Cotton Hoodie",
+  "brand": "Scott International",
+  "price": 498,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-hoodie.png",
+  "rating": "3.8",
+  "category": "cloth"
+},
+{
+  "_id": 4,
+  "title": "Men's Waistcoat",
+  "brand": "LEVIS",
+  "price": 2500,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-jacket.png",
+  "rating": "4.3",
+  "category": "cloth"
+},
+{
+  "_id": 5,
+  "title": "Slim Fit Jeans",
+  "brand": "LEVIS",
+  "price": 1469,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-jeans-pants.png",
+  "rating": "3.1",
+  "category": "cloth"
+},
+{
+  "_id": 6,
+  "title": "Miss Chase Bodycon Dress",
+  "brand": "LEVIS",
+  "price": 974,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-modren-net.png",
+  "rating": "3.8",
+  "category": "cloth"
+},
+{
+  "_id": 7,
+  "title": "Zari Design Kurta",
+  "brand": "Libas",
+  "price": 1869,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-punjabi.png",
+  "rating": "4.4",
+  "category": "cloth"
+},
+{
+  "_id": 8,
+  "title": "Slim Fit Blazer",
+  "brand": "LEVIS",
+  "price": 2599,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-purple-jacket.png",
+  "rating": "4.2",
+  "category": "cloth"
+},
+{
+  "_id": 9,
+  "title": "Animal Printed Shirt",
+  "brand": "Mufti",
+  "price": 1017,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-short-sleeves-shirt.png",
+  "rating": "4",
+  "category": "cloth"
+},
+{
+  "_id": 10,
+  "title": "Polyester Saree",
+  "brand": "Ahalyaa",
+  "price": 419,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-side-sareee.png",
+  "rating": "3.8",
+  "category": "cloth"
+},
+{
+  "_id": 11,
+  "title": "Warm Up Jacket",
+  "brand": "Monte Carlo",
+  "price": 2796,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-sim-jacket.png",
+  "rating": "4.4",
+  "category": "cloth"
+},
+{
+  "_id": 12,
+  "title": "Wrap Dress",
+  "brand": "Vero Moda",
+  "price": 3039,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-simple-formal.png",
+  "rating": "3.2",
+  "category": "cloth"
+},
+{
+  "_id": 13,
+  "title": "Knit Cream Sweater",
+  "brand": "MansiCollections",
+  "price": 996,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-stylish-sweater.png",
+  "rating": "3.2",
+  "category": "cloth"
+},
+{
+  "_id": 14,
+  "title": "Sheer Anarkali",
+  "brand": "Saadgi",
+  "price": 2172,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/clothes-white-punjabi.png",
+  "rating": "3.2",
+  "category": "cloth"
+},
+{
+  "_id": 15,
+  "title": "Embellished Maxi Dress",
+  "brand": "STREET 9",
+  "price": 1799,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/cloths-blue-fork.png",
+  "rating": "3.2",
+  "category": "cloth"
+},
+{
+  "_id": 16,
+  "title": "Embroidered Net Gown",
+  "brand": "Manyavar",
+  "price": 62990,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/cloths-long-fork.png",
+  "rating": "3.2",
+  "category": "cloth"
+},
+{
+  "_id": 25,
+  "title": "Analog Men's Watch",
+  "brand": "Fastrack",
+  "price": 1850,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-casual-watch.png",
+  "rating": "4.2",
+  "category": "electronics"
+},
+{
+  "_id": 26,
+  "title": "Tea Kettle Pot",
+  "brand": "Indian Art Villa",
+  "price": 1685,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-copper-kettle.png",
+  "rating": "3.8",
+  "category": "electronics"
+},
+{
+  "_id": 27,
+  "title": "Aluminium 4 Cup Tea Kettle",
+  "brand": "Kitchen Expert",
+  "price": 399,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-kettle.png",
+  "rating": "4.3",
+  "category": "electronics"
+},
+{
+  "_id": 28,
+  "title": "Tripod Stand",
+  "brand": "Sketchfab",
+  "price": 390,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-medium-tripod.png",
+  "rating": "4.2",
+  "category": "electronics"
+},
+{
+  "_id": 29,
+  "title": "Beard Trimmer",
+  "brand": "Nova",
+  "price": 398,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-nova-trimmer.png",
+  "rating": "4.5",
+  "category": "electronics"
+},
+{
+  "_id": 30,
+  "title": "Nova SuperGroom Multi-kit",
+  "brand": "Nova",
+  "price": 1199,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-nover-v2-trimmer.png",
+  "rating": "4.4",
+  "category": "electronics"
+},
+{
+  "_id": 31,
+  "title": "Privateer Quartz Watch",
+  "brand": "Fossil",
+  "price": 8122,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-royal-black-watch.png",
+  "rating": "4.4",
+  "category": "electronics"
+},
+{
+  "_id": 32,
+  "title": "Chronograph black Watch",
+  "brand": "Fossil",
+  "price": 6395,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-royal-watch.png",
+  "rating": "3.8",
+  "category": "electronics"
+},
+{
+  "_id": 33,
+  "title": "Collider Black Dial Men's Watch",
+  "brand": "Fossil",
+  "price": 14995,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-simple-belt-watch.png",
+  "rating": "4.3",
+  "category": "electronics"
+},
+{
+  "_id": 34,
+  "title": "Neutra Analog Men's Watch",
+  "brand": "Fossil",
+  "price": 10995,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-simple-watch.png",
+  "rating": "4.1",
+  "category": "electronics"
+},
+{
+  "_id": 35,
+  "title": "Maritime Men's Watch",
+  "brand": "Titan",
+  "price": 11999,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/electronics-tatar-watch.png",
+  "rating": "4.3",
+  "category": "electronics"
+},
+{
+  "_id": 17,
+  "title": "Handheld Full Body Massager",
+  "brand": "AGARO REGAL",
+  "price": 1299,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/appliances-body-massager.png",
+  "rating": "4.3",
+  "category": "electronics"
+},
+{
+  "_id": 18,
+  "title": "True Wireless Earbuds",
+  "brand": "LG",
+  "price": 13499,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/appliances-ear-buds.png",
+  "rating": "4.4",
+  "category": "electronics"
+},
+{
+  "_id": 19,
+  "title": "Mixer Grinder",
+  "brand": "Lifelong",
+  "price": 1699,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/appliances-mixer-grinder.png",
+  "rating": "3.9",
+  "category": "appliances"
+},
+{
+  "_id": 20,
+  "title": "SilverBullet Mixer Grinder",
+  "brand": "COOKWELL",
+  "price": 1899,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/appliances-mixer-grinder-white.png",
+  "rating": "4.1",
+  "category": "appliances"
+},
+{
+  "_id": 21,
+  "title": "PS5 Controller Charger",
+  "brand": "New World",
+  "price": 1749,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/appliances-ps5-controller.png",
+  "rating": "3.3",
+  "category": "appliances"
+},
+{
+  "_id": 22,
+  "title": "Podcast Microphone",
+  "brand": "MAONO",
+  "price": 5555,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/appliances-singing-mike.png",
+  "rating": "4.4",
+  "category": "appliances"
+},
+{
+  "_id": 23,
+  "title": "Dynamic Microphone",
+  "brand": "JTS Store",
+  "price": 1699,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/appliances-solo-mike.png",
+  "rating": "3.9",
+  "category": "appliances"
+},
+{
+  "_id": 24,
+  "title": "Front Load Machine",
+  "brand": "Samsung",
+  "price": 22490,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/appliances-washing-machine.png",
+  "rating": "4.5",
+  "category": "appliances"
+},
+{
+  "_id": 36,
+  "title": "Eggs",
+  "brand": "Naturoz",
+  "price": 60,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery-eggs.png",
+  "rating": "3.6",
+  "category": "grocery"
+},
+{
+  "_id": 37,
+  "title": "Chilli Extract Sauce",
+  "brand": "Everin",
+  "price": 788,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery-extract.png",
+  "rating": "4.1",
+  "category": "grocery"
+},
+{
+  "_id": 38,
+  "title": "Flour Unbleached",
+  "brand": "TWF Store",
+  "price": 200,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery--flour.png",
+  "rating": "4.3",
+  "category": "grocery"
+},
+{
+  "_id": 39,
+  "title": "Fresh Produce Green Chilli",
+  "brand": "Amazon",
+  "price": 30,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery-green-chilli.png",
+  "rating": "4.2",
+  "category": "grocery"
+},
+{
+  "_id": 40,
+  "title": "Maroon Kumkum ",
+  "brand": "Amazon",
+  "price": 200,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery--kumkum.png",
+  "rating": "3.9",
+  "category": "grocery"
+},
+{
+  "_id": 41,
+  "title": "Fresh Lemon, 100g",
+  "brand": "Amazon",
+  "price": 50,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery-lemons.png",
+  "rating": "4.5",
+  "category": "grocery"
+},
+{
+  "_id": 42,
+  "title": "Virgin Avocado Oil",
+  "brand": "ProV",
+  "price": 4144,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery-oil.png",
+  "rating": "4.4",
+  "category": "grocery"
+},
+{
+  "_id": 43,
+  "title": "Basmati Rice",
+  "brand": "Fortune",
+  "price": 244,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery-rice.png",
+  "rating": "3.6",
+  "category": "grocery"
+},
+{
+  "_id": 44,
+  "title": "Crystal Sugar",
+  "brand": "NatureVit",
+  "price": 278,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery-sugar-cubes.png",
+  "rating": "3.6",
+  "category": "grocery"
+},
+{
+  "_id": 45,
+  "title": "Turmeric Powder",
+  "brand": "Patanjali",
+  "price": 1234,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/grocery-turmeric.png",
+  "rating": "2.8",
+  "category": "grocery"
+},
+{
+  "_id": 46,
+  "title": "Batman Batmobile",
+  "brand": "Funskool",
+  "price": 745,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-batman-toy.png",
+  "rating": "4.7",
+  "category": "toys"
+},
+{
+  "_id": 47,
+  "title": "Panda Baby Product",
+  "brand": "Panda",
+  "price": 1399,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-big-two-wheeler.png",
+  "rating": "4.3",
+  "category": "toys"
+},
+{
+  "_id": 48,
+  "title": "Monsters Charm Toy",
+  "brand": "Trendytap",
+  "price": 8600,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-minnos.png",
+  "rating": "4.2",
+  "category": "toys"
+},
+{
+  "_id": 49,
+  "title": "Knitted Rabbit",
+  "brand": "Ira",
+  "price": 620,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-orange-rabbit.png",
+  "rating": "4.4",
+  "category": "toys"
+},
+{
+  "_id": 50,
+  "title": "Bot Robot Toy",
+  "brand": "WireScorts",
+  "price": 355,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-orange-robot.png",
+  "rating": "3.8",
+  "category": "toys"
+},
+{
+  "_id": 51,
+  "title": "Kids Toy Train",
+  "brand": "FIONA",
+  "price": 599,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-red-train.png",
+  "rating": "4.1",
+  "category": "toys"
+},
+{
+  "_id": 52,
+  "title": "Non-Toxic Robot Toys",
+  "brand": "FunBlast",
+  "price": 1545,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-short-green-robot.png",
+  "rating": "3.3",
+  "category": "toys"
+},
+{
+  "_id": 53,
+  "title": "Honey Teddy Bear",
+  "brand": "Honey",
+  "price": 599,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-simple-teddy.png",
+  "rating": "4.3",
+  "category": "toys"
+},
+{
+  "_id": 54,
+  "title": "Nexa Yellow Car",
+  "brand": "Quinergys",
+  "price": 490,
+  "image_url": "https://assets.ccbp.in/frontend/react-js/ecommerce/toys-yellow-car.png",
+  "rating": "4.1",
+  "category": "toys"
+}]
